@@ -1,0 +1,19 @@
+@import "button-treehous.css";
+
+.banner {
+  background-image: url("../../images/background.png");
+  background-size: cover;
+  background-position: center;
+  padding:200px 0;
+  color: white;
+  justify-content: space-between;
+}
+
+.banner h1{
+  font-size:40px;
+}
+.banner p{
+  opacity: 0.6;
+  font-size:25px;
+}
+
